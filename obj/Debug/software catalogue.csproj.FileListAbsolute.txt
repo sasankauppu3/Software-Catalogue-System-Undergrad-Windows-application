@@ -1,0 +1,63 @@
+C:\Users\student\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.exe.config
+C:\Users\student\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.exe
+C:\Users\student\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.pdb
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.Form1.resources
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.Properties.Resources.resources
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.exe
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.pdb
+C:\Users\student\Desktop\software catalogue\software catalogue\bin\Debug\softwaredb.mdf
+C:\Users\student\Desktop\software catalogue\software catalogue\bin\Debug\softwaredb_log.ldf
+C:\Users\student\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.Form2.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.exe.config
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.exe
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.pdb
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\bin\Debug\softwaredb.mdf
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\bin\Debug\softwaredb_log.ldf
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.exe
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\bin\Debug\software catalogue.pdb
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.csprojResolveAssemblyReference.cache
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.Form1.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.home.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.adhome.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.Properties.Resources.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.register.resources
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software catalogue.csproj.GenerateResource.Cache
+D:\Users\MUNTIN\Desktop\software catalogue\software catalogue\obj\Debug\software_catalogue.ad_remuser.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\bin\Debug\software catalogue.exe.config
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software catalogue.exe
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software catalogue.pdb
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\bin\Debug\softwaredb.mdf
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\bin\Debug\softwaredb_log.ldf
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\bin\Debug\software catalogue.exe
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\bin\Debug\software catalogue.pdb
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.ad_remuser.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.Form1.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.home.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.adhome.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.Properties.Resources.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.register.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software catalogue.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.upload.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.request.resources
+C:\Users\admin\Desktop\ooad project\software catalogue\software catalogue\obj\Debug\software_catalogue.remove.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\bin\Debug\software catalogue.exe.config
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software catalogue.exe
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software catalogue.pdb
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\bin\Debug\softwaredb.mdf
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\bin\Debug\softwaredb_log.ldf
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\bin\Debug\software catalogue.exe
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\bin\Debug\software catalogue.pdb
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software catalogue.csprojResolveAssemblyReference.cache
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.ad_remuser.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.Form1.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.home.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.adhome.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.Properties.Resources.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.register.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.remove.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.request.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.upload.resources
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software catalogue.csproj.GenerateResource.Cache
+D:\Users\MUNTIN\Desktop\software catalogue1\software catalogue\obj\Debug\software_catalogue.generaterep.resources
